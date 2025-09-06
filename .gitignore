@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.db
+*.pbix
+vendor analysis files/sales.csv
+vendor analysis files/purchases.csv
+
